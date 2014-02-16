@@ -46,13 +46,11 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/moto_msm8960/proprietary/lib/libdsucsd.so:system/lib/libdsucsd.so \
     vendor/motorola/moto_msm8960/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
     vendor/motorola/moto_msm8960/proprietary/lib/libgemini.so:system/lib/libgemini.so \
-    vendor/motorola/moto_msm8960/proprietary/lib/libgeofence.so:system/lib/libgeofence.so \
     vendor/motorola/moto_msm8960/proprietary/lib/libgps.so:system/lib/libgps.so \
     vendor/motorola/moto_msm8960/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
     vendor/motorola/moto_msm8960/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/motorola/moto_msm8960/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
     vendor/motorola/moto_msm8960/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
-    vendor/motorola/moto_msm8960/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/motorola/moto_msm8960/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
     vendor/motorola/moto_msm8960/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/motorola/moto_msm8960/proprietary/lib/libmmmpod.so:system/lib/libmmmpod.so \
@@ -115,8 +113,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/moto_msm8960/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
     vendor/motorola/moto_msm8960/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
     vendor/motorola/moto_msm8960/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
-    vendor/motorola/moto_msm8960/proprietary/etc/firmware/atmxt-r1.tdat:system/etc/firmware/atmxt-r1.tdat \
-    vendor/motorola/moto_msm8960/proprietary/etc/firmware/atmxt-r2.tdat:system/etc/firmware/atmxt-r2.tdat \
     vendor/motorola/moto_msm8960/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
     vendor/motorola/moto_msm8960/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
     vendor/motorola/moto_msm8960/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
